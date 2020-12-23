@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Jebm.Mnr.Domain.Core/1.0.0": {
+        "dependencies": {
+          "Jebm.Mnr.Domain.Entity": "1.0.0",
+          "Jebm.Mnr.Domain.Interface": "1.0.0",
+          "Jebm.Mnr.Infrastructure.Interface": "1.0.0"
+        },
+        "runtime": {
+          "Jebm.Mnr.Domain.Core.dll": {}
+        }
+      },
+      "Jebm.Mnr.Domain.Entity/1.0.0": {
+        "runtime": {
+          "Jebm.Mnr.Domain.Entity.dll": {}
+        }
+      },
+      "Jebm.Mnr.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "Jebm.Mnr.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Jebm.Mnr.Domain.Interface.dll": {}
+        }
+      },
+      "Jebm.Mnr.Infrastructure.Interface/1.0.0": {
+        "dependencies": {
+          "Jebm.Mnr.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "Jebm.Mnr.Infrastructure.Interface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jebm.Mnr.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jebm.Mnr.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jebm.Mnr.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jebm.Mnr.Infrastructure.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

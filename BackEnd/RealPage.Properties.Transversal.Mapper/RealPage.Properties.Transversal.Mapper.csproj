@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealPage.Properties.Application.DTO\RealPage.Properties.Application.DTO.csproj" />
+    <ProjectReference Include="..\RealPage.Properties.Domain.Entity\RealPage.Properties.Domain.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

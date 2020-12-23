@@ -1,0 +1,37 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "RealPage.Properties.Domain.Interface/1.0.0": {
+        "dependencies": {
+          "RealPage.Properties.Domain.Entity": "1.0.0"
+        },
+        "runtime": {
+          "RealPage.Properties.Domain.Interface.dll": {}
+        }
+      },
+      "RealPage.Properties.Domain.Entity/1.0.0": {
+        "runtime": {
+          "RealPage.Properties.Domain.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RealPage.Properties.Domain.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealPage.Properties.Domain.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

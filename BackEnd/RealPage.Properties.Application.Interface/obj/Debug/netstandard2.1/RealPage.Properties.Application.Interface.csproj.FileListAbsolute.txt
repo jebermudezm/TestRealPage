@@ -1,0 +1,14 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Application.Interface.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Application.Interface.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Application.Interface.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.csprojAssemblyReference.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.csproj.CopyComplete
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.Interface\obj\Debug\netstandard2.1\RealPage.Properties.Application.Interface.pdb

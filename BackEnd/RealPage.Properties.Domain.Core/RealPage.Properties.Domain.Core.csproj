@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealPage.Properties.Domain.Entity\RealPage.Properties.Domain.Entity.csproj" />
+    <ProjectReference Include="..\RealPage.Properties.Domain.Interface\RealPage.Properties.Domain.Interface.csproj" />
+    <ProjectReference Include="..\RealPage.Properties.Infrastructure.Interface\RealPage.Properties.Infrastructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

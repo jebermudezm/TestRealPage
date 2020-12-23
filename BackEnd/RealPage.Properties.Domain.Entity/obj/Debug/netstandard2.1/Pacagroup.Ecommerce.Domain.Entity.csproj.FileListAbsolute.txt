@@ -1,0 +1,8 @@
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.deps.json
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.AssemblyInfo.cs
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Entity\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb

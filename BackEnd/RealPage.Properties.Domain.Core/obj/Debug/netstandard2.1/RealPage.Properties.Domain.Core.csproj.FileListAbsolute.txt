@@ -1,0 +1,16 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Core.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Core.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Core.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Interface.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Interface.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Interface.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\bin\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Interface.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.csprojAssemblyReference.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.csproj.CopyComplete
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Core\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Core.pdb

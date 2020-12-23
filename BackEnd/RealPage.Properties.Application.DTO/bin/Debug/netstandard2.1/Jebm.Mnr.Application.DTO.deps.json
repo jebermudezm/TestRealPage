@@ -1,0 +1,24 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Jebm.Mnr.Application.DTO/1.0.0": {
+        "runtime": {
+          "Jebm.Mnr.Application.DTO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jebm.Mnr.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

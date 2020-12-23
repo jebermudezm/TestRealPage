@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Repository\\RealPage.Properties.Infrastructure.Repository.csproj": {}
+  },
+  "projects": {
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj",
+        "projectName": "RealPage.Properties.Domain.Entity",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\RealPage.Properties.Infrastructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\RealPage.Properties.Infrastructure.Interface.csproj",
+        "projectName": "RealPage.Properties.Infrastructure.Interface",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\RealPage.Properties.Infrastructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj": {
+                "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Repository\\RealPage.Properties.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Repository\\RealPage.Properties.Infrastructure.Repository.csproj",
+        "projectName": "RealPage.Properties.Infrastructure.Repository",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Repository\\RealPage.Properties.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\RealPage.Properties.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Infrastructure.Interface\\RealPage.Properties.Infrastructure.Interface.csproj"
+              },
+              "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\RealPage.Properties.Transversal.Common.csproj": {
+                "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\RealPage.Properties.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\RealPage.Properties.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\RealPage.Properties.Transversal.Common.csproj",
+        "projectName": "RealPage.Properties.Transversal.Common",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\RealPage.Properties.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

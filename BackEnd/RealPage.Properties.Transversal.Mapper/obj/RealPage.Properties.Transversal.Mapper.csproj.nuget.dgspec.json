@@ -1,0 +1,201 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Mapper\\RealPage.Properties.Transversal.Mapper.csproj": {}
+  },
+  "projects": {
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\RealPage.Properties.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\RealPage.Properties.Application.DTO.csproj",
+        "projectName": "RealPage.Properties.Application.DTO",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\RealPage.Properties.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj",
+        "projectName": "RealPage.Properties.Domain.Entity",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Mapper\\RealPage.Properties.Transversal.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Mapper\\RealPage.Properties.Transversal.Mapper.csproj",
+        "projectName": "RealPage.Properties.Transversal.Mapper",
+        "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Mapper\\RealPage.Properties.Transversal.Mapper.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Transversal.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\RealPage.Properties.Application.DTO.csproj": {
+                "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Application.DTO\\RealPage.Properties.Application.DTO.csproj"
+              },
+              "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj": {
+                "projectPath": "D:\\ProyectosGit\\TestRealPage\\BackEnd\\RealPage.Properties.Domain.Entity\\RealPage.Properties.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

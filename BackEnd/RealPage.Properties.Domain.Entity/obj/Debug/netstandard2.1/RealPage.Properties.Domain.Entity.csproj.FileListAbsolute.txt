@@ -1,0 +1,9 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Domain.Entity\obj\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.csprojAssemblyReference.cache

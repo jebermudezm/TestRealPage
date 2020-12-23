@@ -1,0 +1,12 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\bin\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\bin\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\bin\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.csprojAssemblyReference.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.csproj.CopyComplete
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Infrastructure.Data\obj\Debug\netstandard2.1\RealPage.Properties.Infrastructure.Data.pdb

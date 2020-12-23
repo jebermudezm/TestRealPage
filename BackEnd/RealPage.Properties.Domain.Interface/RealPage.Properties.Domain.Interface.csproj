@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RealPage.Properties.Domain.Entity\RealPage.Properties.Domain.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

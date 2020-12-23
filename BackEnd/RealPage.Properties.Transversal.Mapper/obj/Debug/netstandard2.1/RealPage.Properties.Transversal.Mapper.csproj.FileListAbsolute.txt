@@ -1,0 +1,14 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.csprojAssemblyReference.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\bin\Debug\netstandard2.1\RealPage.Properties.Domain.Entity.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.csproj.CopyComplete
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Mapper\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Mapper.pdb

@@ -1,0 +1,8 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Common\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.pdb

@@ -1,0 +1,12 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\bin\Debug\netstandard2.1\RealPage.Properties.Transversal.Common.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.csprojAssemblyReference.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.csproj.CopyComplete
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Transversal.Logging\obj\Debug\netstandard2.1\RealPage.Properties.Transversal.Logging.pdb

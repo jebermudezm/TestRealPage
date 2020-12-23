@@ -1,0 +1,12 @@
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.deps.json
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Common.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.csprojAssemblyReference.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfoInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.AssemblyInfo.cs
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.csproj.CoreCompileInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.csproj.CopyComplete
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Transversal.Logging\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Transversal.Logging.pdb

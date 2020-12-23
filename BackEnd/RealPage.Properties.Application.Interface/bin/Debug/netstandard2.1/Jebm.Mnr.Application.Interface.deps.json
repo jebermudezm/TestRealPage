@@ -1,0 +1,48 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "Jebm.Mnr.Application.Interface/1.0.0": {
+        "dependencies": {
+          "Jebm.Mnr.Application.DTO": "1.0.0",
+          "Jebm.Mnr.Transversal.Common": "1.0.0"
+        },
+        "runtime": {
+          "Jebm.Mnr.Application.Interface.dll": {}
+        }
+      },
+      "Jebm.Mnr.Application.DTO/1.0.0": {
+        "runtime": {
+          "Jebm.Mnr.Application.DTO.dll": {}
+        }
+      },
+      "Jebm.Mnr.Transversal.Common/1.0.0": {
+        "runtime": {
+          "Jebm.Mnr.Transversal.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jebm.Mnr.Application.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jebm.Mnr.Application.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Jebm.Mnr.Transversal.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

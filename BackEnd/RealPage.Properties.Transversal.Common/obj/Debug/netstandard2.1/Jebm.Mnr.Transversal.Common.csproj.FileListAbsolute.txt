@@ -1,0 +1,17 @@
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.deps.json
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.dll
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.pdb
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.csprojAssemblyReference.cache
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.AssemblyInfoInputs.cache
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.AssemblyInfo.cs
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.dll
+D:\DirTrab\DotNetCore\Jebm.Mnr\Pacagroup.Ecommerce.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.pdb
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.deps.json
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.dll
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\bin\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.pdb
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.AssemblyInfoInputs.cache
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.AssemblyInfo.cs
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.dll
+D:\DirTrab\DotNetCore\Jebm.Mnr\Jebm.Mnr.Transversal.Common\obj\Debug\netstandard2.1\Jebm.Mnr.Transversal.Common.pdb

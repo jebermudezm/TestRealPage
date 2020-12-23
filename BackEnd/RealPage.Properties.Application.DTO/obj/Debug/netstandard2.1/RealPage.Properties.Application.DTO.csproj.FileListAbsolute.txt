@@ -1,0 +1,9 @@
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.deps.json
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\bin\Debug\netstandard2.1\RealPage.Properties.Application.DTO.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.AssemblyInfoInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.AssemblyInfo.cs
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.csproj.CoreCompileInputs.cache
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.dll
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.pdb
+D:\ProyectosGit\TestRealPage\BackEnd\RealPage.Properties.Application.DTO\obj\Debug\netstandard2.1\RealPage.Properties.Application.DTO.csprojAssemblyReference.cache

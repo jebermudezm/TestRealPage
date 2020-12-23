@@ -1,0 +1,979 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Services.WebApi\\Jebm.Mnr.Services.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj",
+        "projectName": "Jebm.Mnr.Application.DTO",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj",
+        "projectName": "Jebm.Mnr.Application.Interface",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\Jebm.Mnr.Application.Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\Jebm.Mnr.Application.Main.csproj",
+        "projectName": "Jebm.Mnr.Application.Main",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\Jebm.Mnr.Application.Main.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\Jebm.Mnr.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\Jebm.Mnr.Domain.Core.csproj",
+        "projectName": "Jebm.Mnr.Domain.Core",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\Jebm.Mnr.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj",
+        "projectName": "Jebm.Mnr.Domain.Entity",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj",
+        "projectName": "Jebm.Mnr.Domain.Interface",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj",
+        "projectName": "Jebm.Mnr.Infrastructure.Data",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj",
+        "projectName": "Jebm.Mnr.Infrastructure.Interface",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\Jebm.Mnr.Infrastructure.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\Jebm.Mnr.Infrastructure.Repository.csproj",
+        "projectName": "Jebm.Mnr.Infrastructure.Repository",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\Jebm.Mnr.Infrastructure.Repository.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Services.WebApi\\Jebm.Mnr.Services.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Services.WebApi\\Jebm.Mnr.Services.WebApi.csproj",
+        "projectName": "Jebm.Mnr.Services.WebApi",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Services.WebApi\\Jebm.Mnr.Services.WebApi.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Services.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Interface\\Jebm.Mnr.Application.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\Jebm.Mnr.Application.Main.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.Main\\Jebm.Mnr.Application.Main.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\Jebm.Mnr.Domain.Core.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Core\\Jebm.Mnr.Domain.Core.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Interface\\Jebm.Mnr.Domain.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Data\\Jebm.Mnr.Infrastructure.Data.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Interface\\Jebm.Mnr.Infrastructure.Interface.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\Jebm.Mnr.Infrastructure.Repository.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Infrastructure.Repository\\Jebm.Mnr.Infrastructure.Repository.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\Jebm.Mnr.Transversal.Logging.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\Jebm.Mnr.Transversal.Logging.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\Jebm.Mnr.Transversal.Mapper.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\Jebm.Mnr.Transversal.Mapper.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.8, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj",
+        "projectName": "Jebm.Mnr.Transversal.Common",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\Jebm.Mnr.Transversal.Logging.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\Jebm.Mnr.Transversal.Logging.csproj",
+        "projectName": "Jebm.Mnr.Transversal.Logging",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\Jebm.Mnr.Transversal.Logging.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Logging\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Common\\Jebm.Mnr.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\Jebm.Mnr.Transversal.Mapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\Jebm.Mnr.Transversal.Mapper.csproj",
+        "projectName": "Jebm.Mnr.Transversal.Mapper",
+        "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\Jebm.Mnr.Transversal.Mapper.csproj",
+        "packagesPath": "C:\\Users\\joaquin.bermudez\\.nuget\\packages\\",
+        "outputPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Transversal.Mapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\joaquin.bermudez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\Microsoft.NET\\Nugets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Application.DTO\\Jebm.Mnr.Application.DTO.csproj"
+              },
+              "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj": {
+                "projectPath": "D:\\DirTrab\\DotNetCore\\Jebm.Mnr\\Jebm.Mnr.Domain.Entity\\Jebm.Mnr.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

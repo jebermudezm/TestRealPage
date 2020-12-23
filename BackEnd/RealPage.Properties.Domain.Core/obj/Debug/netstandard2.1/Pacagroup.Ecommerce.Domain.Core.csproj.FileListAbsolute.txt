@@ -1,0 +1,16 @@
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.deps.json
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interface.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Entity.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Interface.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\bin\Debug\netstandard2.1\Pacagroup.Ecommerce.Infrastructure.Interface.pdb
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csprojAssemblyReference.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfoInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.AssemblyInfo.cs
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CoreCompileInputs.cache
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.csproj.CopyComplete
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.dll
+D:\DirTrab\DotNetCore\CursoArq\Pacagroup.EcommerceV9\Pacagroup.Ecommerce.Domain.Core\obj\Debug\netstandard2.1\Pacagroup.Ecommerce.Domain.Core.pdb
