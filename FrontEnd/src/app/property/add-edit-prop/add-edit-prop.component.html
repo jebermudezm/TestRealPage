@@ -1,0 +1,76 @@
+<div class="d-flex flex-row bd-highlight mb-3">
+
+    <div class="form-froup row" style="width: 60%;">
+    <label class="col-sm-2 col-form-label">Id</label>
+    <div class="col-sm-10">
+        <input type="text" class="form-control" [(ngModel)]="id"
+        disabled>
+    </div>
+
+      <label class="col-sm-2 col-form-label">Name</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="name"
+          placeholder="Enter Property Name" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Description</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="description"
+          placeholder="Enter Property Description" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">State</label>
+      <div class="col-sm-10">
+        <select name="state" class="form-control" [(ngModel)]="state">
+            <option value="Active">Active</option>
+            <option value="Sold">Sold</option>
+            <option  value="Canceled">Canceled</option>
+        </select>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Type</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="type"
+          placeholder="Enter Property Type(House, Appartment, Etc.)" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Location</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="location"
+          placeholder="Enter Property Location" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Area(m²)</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="area"
+          placeholder="Enter Property Area m²" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Contact Name</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="contact"
+          placeholder="Enter Property Contact Full Name" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Phone Contact</label>
+      <div class="col-sm-10">
+          <input type="text" class="form-control" [(ngModel)]="phoneContact"
+          placeholder="Enter Property Contact Phone Contact" required>
+      </div>
+
+      <label class="col-sm-2 col-form-label">Price (USD)</label>
+      <div class="col-sm-10">
+          <input type="number" class="form-control" [(ngModel)]="price"
+          placeholder="Enter Property Contact Price" required>
+      </div>
+  </div>
+</div>
+
+  <button (click)="addProperty()" *ngIf="prop.id==0" class="btn btn-primary">
+    <span class="fa fa-save"></span>
+    <span class="hidden-xs">Add</span>
+  </button>
+
+  <button (click)="updateProperty()" *ngIf="prop.id!=0" class="btn btn-primary">
+      Update
+  </button>
